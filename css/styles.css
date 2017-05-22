@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#leigh-passamano-cover {
+  background-image: url("http://imgur.com/Jnr5Y3L.jpg")
+}
+
+#leigh-passamano-card {
+  background-image: url("http://imgur.com/RBOOTsr.jpg");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
